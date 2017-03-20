@@ -1,7 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
     "title": "Java JDK",
-    "description": "Install Java Development Kit",
+    "description": "Install Java",
     "tags": [
       "JDK",
       "Linux",
